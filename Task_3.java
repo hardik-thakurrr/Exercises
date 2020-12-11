@@ -27,7 +27,5 @@ public class TASK_3 {
 				break;															
 		}
 		sc.close();
-
 	}
-
 }
